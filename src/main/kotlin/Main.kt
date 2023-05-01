@@ -1,5 +1,3 @@
 fun main(args: Array<String>) {
-
-    val menu = ArchivesMenu()
-    menu.showMenu()
+    println("Hello World!")
 }
